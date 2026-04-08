@@ -1,4 +1,4 @@
 # test1.py
 
-print('hi!!!^^~~')
-print('thanks^^^')
+print('hi!^^/~')
+print('thanks!')
